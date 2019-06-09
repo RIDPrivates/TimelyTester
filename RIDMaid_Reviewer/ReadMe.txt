@@ -1,4 +1,5 @@
 RIDMaid_Reviewer ver:1.0.beta
+/////The auther had already quitted this project, so try the ver:Timely Tester.//////
 functions:
  1.Manage drawers
  2.Timer test
